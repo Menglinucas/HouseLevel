@@ -20,7 +20,7 @@ calLevelPost2(mon,configfile,outpath,sys)
 
 ### new  
 ```
-hp_CHN((startmon,endmon,resol,configfile,outpath,sys,para,newHouse=TRUE)  
+hp_CHN(startmon,endmon,resol,configfile,outpath,sys,para,newHouse=TRUE)  
 ```
 ```
 hp_CHNPost(mon,resol,configfile,outpath,sys,para,newHouse=TRUE)
@@ -28,7 +28,7 @@ hp_CHNPost(mon,resol,configfile,outpath,sys,para,newHouse=TRUE)
 
 ### old
 ```
-hp_CHN((startmon,endmon,resol,configfile,outpath,sys,para,newHouse=FALSE)  
+hp_CHN(startmon,endmon,resol,configfile,outpath,sys,para,newHouse=FALSE)  
 ```
 ```
 hp_CHNPost(mon,resol,configfile,outpath,sys,para,newHouse=FALSE)
